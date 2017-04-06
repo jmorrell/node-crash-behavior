@@ -1,3 +1,5 @@
 {
-  "name": "node-crash-example"
+  "name": "node-crash-example",
+  "description": "An example app that's easy to crash",
+  "repository": "https://github.com/jmorrell/node-crash-behavior"
 }
