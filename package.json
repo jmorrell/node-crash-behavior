@@ -16,5 +16,8 @@
     "jest": "^19.0.2",
     "nodemon": "^1.11.0",
     "prettier": "^0.22.0"
+  },
+  "dependencies": {
+    "throng": "^4.0.0"
   }
 }
