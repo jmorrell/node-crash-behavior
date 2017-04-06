@@ -5,7 +5,8 @@
     "node": "7.7.x"
   },
   "scripts": {
-    "prettify": "prettier --single-quote --trailing-comma --write 'bin/*' 'src/**/*.js'",
+    "start": "node src/index",
+    "prettify": "prettier --single-quote --trailing-comma all --write 'bin/*' 'src/**/*.js'",
     "test": "jest --silent",
     "dev": "nodemon --watch . --watch src/* src/index.js"
   },
